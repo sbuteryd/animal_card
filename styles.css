@@ -1,0 +1,39 @@
+/* 添加 CSS */
+.container{
+    width: 300px;
+    border: 1px solid #e9eae9;
+    box-shadow: 10px 8px 6px #e9eae9;
+    margin: auto;
+    padding: 10px;
+    font-size: 10px;
+}
+
+#animal_name{
+    text-align: left;
+    font-size: 15px;
+}
+
+.content_ani{
+    border: 1px solid #e9eae9;
+    padding: 10px;
+}
+
+.content_des{
+    list-style: none;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.horse{
+    width: 300px;
+    height: 200px;
+    padding-bottom: 5px;
+}
+span{
+    font-weight: bold;
+}
+
+.horse_title{
+    font-style: italic ;
+    font-family: 'Radley', serif;
+}
